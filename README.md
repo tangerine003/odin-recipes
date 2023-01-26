@@ -1,1 +1,1 @@
-# odin-recipes
+This is a basic recipe website that consists of a list of dishes whose recipes can be found by clicking on the respective dish name . 

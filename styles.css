@@ -1,0 +1,40 @@
+/* body{
+    font-family: papyrus,copperplate,fantasy;
+} */
+
+/* .font{
+    font-family: 'lucida Handwriting','Brush Script MT',cursive;
+} */
+
+/* .font{
+    font-family: Arial, Helvetica, Verdana,sans-serif;
+} */
+
+img{
+   vertical-align:middle;
+}
+
+
+div{
+    margin: auto;
+    width: 50%;
+    height: 50%;
+    margin-top: auto;
+    margin-bottom: auto;
+    padding: 70px;
+}
+.font{
+    font-family:  Allan;
+    font-size: 52px;
+    background-color: #7A88F5;
+    color:black;
+    
+}
+
+h1 { font-weight: normal; 
+display: inline;
+padding-top: 0px;}
+
+.text{
+    padding-bottom: 25px;
+}
